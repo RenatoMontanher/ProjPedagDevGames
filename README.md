@@ -1,2 +1,3 @@
-# ProjPedagDevGames
-Código Fonte das aulas ministradas!!!
+# E aeeeee Galera!
+Aqui se encontra os códigos fontes das aulas anteriores! 
+Clicar em download e descompactar 
