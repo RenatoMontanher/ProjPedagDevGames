@@ -2,7 +2,6 @@
 
 [ext_resource path="res://scripts/Button.gd" type="Script" id=1]
 
-
 [node name="telaInicial" type="Node2D" index="0"]
 
 [node name="Label" type="Label" parent="." index="0"]
