@@ -152,7 +152,7 @@ caret_blink = false
 caret_blink_speed = 0.65
 caret_position = 0
 
-[node name="Button" type="Button" parent="HBoxContainer" index="1"]
+[node name="somar" type="Button" parent="HBoxContainer" index="1"]
 
 anchor_left = 0.0
 anchor_top = 0.0

@@ -11,7 +11,7 @@ config_version=3
 [application]
 
 config/name="aula1"
-run/main_scene="res://fase1.tscn"
+run/main_scene="res://cenas/fase1.tscn"
 config/icon="res://icon.png"
 
 [rendering]
