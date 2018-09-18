@@ -2,7 +2,7 @@
 
 [ext_resource path="res://scripts/btnSomar.gd" type="Script" id=1]
 
-[node name="exercicio2" type="Node2D"]
+[node name="exercicio2" type="Node2D" index="0"]
 
 [node name="HBoxContainer" type="VBoxContainer" parent="." index="0"]
 
@@ -139,8 +139,9 @@ anchor_left = 0.0
 anchor_top = 0.0
 anchor_right = 0.0
 anchor_bottom = 0.0
+margin_left = -1.0
 margin_top = 18.0
-margin_right = 58.0
+margin_right = 57.0
 margin_bottom = 42.0
 rect_pivot_offset = Vector2( 0, 0 )
 rect_clip_content = false
