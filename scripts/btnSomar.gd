@@ -16,5 +16,12 @@ func _somar(num1,num2):
 
 
 func _on_btnSomar_pressed():
-	labelResultado.text = str(_somar(int(lineEditN1.text),int(lineEditN2.text)))
+	var num1 = int(lineEditN1.text)
+	var num2 = int(lineEditN2.text)
+	var resultado = _somar(num1, num2)
+	
+	
+	labelResultado.text = str(resultado)
 	pass # replace with function body
+	
+	#labelResultado.text = str(_somar(int(lineEditN1.text),int(lineEditN2.text)))
